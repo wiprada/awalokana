@@ -1,0 +1,2 @@
+# awalokana
+olah data 
